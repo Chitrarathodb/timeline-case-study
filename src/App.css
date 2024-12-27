@@ -244,6 +244,7 @@ button {
     border-radius: 20px;
     line-height: 25px;
     padding-bottom: 70px;
+    margin-left: 0px;
   }
   .viewmap-btn{
     margin-top: -4rem !important;
